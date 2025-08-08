@@ -1,8 +1,12 @@
 # 📚 DIM-0 – Semantic Academic Wiki Generator
 
-**Tags:** `NLP` `LLM` `LangChain` `Vector Search` `Knowledge Graph` `Academic Tools` `Python` `Semantic Search` `Document Processing` `Educational Technology` `Wiki Generator` `Streamlit` `React` `Data Visualization`
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![NLP](https://img.shields.io/badge/NLP-spaCy%20%7C%20LangChain-green)
+![Vector Search](https://img.shields.io/badge/vector%20search-FAISS%20%7C%20Chroma-orange)
+![UI](https://img.shields.io/badge/UI-Streamlit%20%7C%20React-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
----
 
 DIM-0 is a modular system that transforms unstructured academic materials (PDFs, slides, notes) into a **linked, non-linear wiki** with semantic search, topic clustering, and interactive graph exploration.
 
