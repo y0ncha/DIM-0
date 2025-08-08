@@ -52,24 +52,25 @@ flowchart TD
 ---
 
 ## 🛠️ Tech Stack (Planned)
-	- Python for backend processing
-	- LangChain + LLMs for extraction and generation
-	- spaCy / KeyBERT for NLP term extraction
-	- FAISS / Chroma for semantic search
-	- SQLite for structured storage
-	- Markdown for wiki output
-	- NetworkX + Cytoscape.js for graph visualization
-	- Wikipedia API for enrichment
-	- Streamlit / React for UI
+-	Python for backend processing
+- 	LangChain + LLMs for extraction and generation
+- 	spaCy / KeyBERT for NLP term extraction
+- 	FAISS / Chroma for semantic search
+- 	SQLite for structured storage
+- 	Markdown for wiki output
+- 	NetworkX + Cytoscape.js for graph visualization
+- 	Wikipedia API for enrichment
+- 	Streamlit / React for UI
 
 ---
 
 ## 📍 Roadmap
-	-	Build glossary extraction pipeline
-	-	Save glossary to SQLite/CSV
-	-	Add topic clustering and linking
-	-	Generate Markdown wiki pages
-	-	Implement graph visualization
-	-	Add course-based UI
-	-	Integrate external enrichment sources
-	-	Deploy as a web app
+- Build glossary extraction pipeline
+- Save glossary to SQLite/CSV
+- Add topic clustering and linking
+- Generate Markdown wiki pages
+- Implement graph visualization
+- Add course-based UI
+- Integrate external enrichment sources
+- Deploy as a web app
+
