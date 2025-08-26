@@ -1,4 +1,4 @@
-# 📚 DIM-0 – Semantic Academic Wiki Generator
+# 📚 DIM-0 – Semantic Academic Glossary Generator
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
